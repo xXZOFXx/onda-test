@@ -1,0 +1,90 @@
+
+
+.carousel{
+
+  margin: 3%;
+
+}
+
+.titulo{
+
+  background-color: #cccccc;
+
+
+}
+
+.titulo1{
+
+  margin-bottom: 8%;
+  text-align: center;
+
+}
+
+.col-md-4{
+
+  width: auto;
+  margin: auto auto;
+  margin: 2%;
+
+}
+
+.card-title{
+
+background-color: grey;
+
+}
+
+.formulario{
+
+margin: 5%;
+background-color:#348c91;
+padding: 20px;
+
+}
+
+
+
+
+.texto2{
+
+text-align: center;
+color: black;
+background-color: #cccccc;
+padding: 1%;
+margin: 2%;
+
+}
+
+.btn-primary{
+
+margin-bottom: 20%;
+
+}
+
+.form{
+
+margin-bottom: 32px
+
+}
+
+
+.colum{
+
+  width: auto;
+  margin: auto auto;
+  padding: 2%;
+
+}
+
+
+.card-body{
+
+background-color: #cccccc;
+
+}
+
+h5{
+
+text-align: center;
+
+}

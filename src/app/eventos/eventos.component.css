@@ -1,0 +1,72 @@
+.card{
+
+margin: auto;
+color: white !important;
+background-color: #348c91;
+
+}
+
+
+.even{
+
+margin: auto;
+text-align: center;
+
+
+}
+
+a{
+
+color: white;
+
+
+}
+
+a:after{
+
+background-color: grey;
+
+}
+
+.carta{
+
+margin: auto;
+width: 70%;
+
+padding: 1%;
+background: grey;
+
+
+}
+
+.card{
+
+margin-top: 3%;
+
+}
+
+.circulos{
+
+margin-top: 15%;
+
+}
+
+
+p{
+
+padding-right: 10px !important;
+padding-left: 10px!important;
+
+}
+
+.parrafos{
+
+text-align: justify;
+
+}
+
+.bg-dark{
+
+background-color: #343a40!important;
+
+}

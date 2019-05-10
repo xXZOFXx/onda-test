@@ -1,0 +1,89 @@
+
+.btn{
+
+margin-right: 2%;
+
+}
+
+.dark{
+padding: 1%;
+text-align: right;
+color: white;
+
+}
+
+.ondas{
+
+  padding: 1.5%;
+}
+.head{
+
+margin-bottom: 30px;
+background-image:url(/assets/fondo.png);
+
+
+}
+
+.botones{
+
+margin: auto;
+
+
+}
+
+.login{
+
+text-align: center;
+margin-bottom: 5% !important;
+
+}
+
+
+.ond-icon{
+padding-top: 2%;
+background-color: grey;
+
+}
+
+.cont{
+
+  /*border-style:solid;
+  border-width: medium;
+  border-color: white;*/
+/*background-color: #003d4f;*/
+background:linear-gradient(90deg, rgba(51, 96, 114, .58), rgba(51, 96, 114, .68) ,  rgba(51, 96, 114, .78) , rgba(51, 96, 114, .88) ,  rgba(51, 96, 114, .99)  );
+}
+
+
+img{
+
+  display:block;
+  margin:auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+
+.botn{
+  margin-top: 70px;
+  margin-bottom:20px;
+  border: 7px solid white;
+  padding: 10px;
+  border-radius: 25px;
+
+}
+
+
+@media screen and (max-width: 700px) {
+  .botn {
+    margin-top: 1px;
+  }
+}
+
+
+label{
+
+margin: 5px;
+
+}
